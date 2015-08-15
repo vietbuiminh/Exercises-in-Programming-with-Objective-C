@@ -1,5 +1,6 @@
 //This is example when creating Strings
 //All examples in this code is in Learning Cocoa with Objective-C
+//https://github.com/vietbuiminh/Exercises-in-Programming-with-Objective-C/blob/master/LrnCoObjc.h
 #import <Foundation/Foundation.h>
 
 @interface LrnCoObjc :NSObject
